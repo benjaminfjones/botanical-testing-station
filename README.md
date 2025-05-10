@@ -1,2 +1,5 @@
 # botanical-testing-station
-A personal website / blog combo powered by Marmite
+
+> "His Imperial Majesty's Desert Botanical Testing Station" -- Frank Herbert
+
+A personal website / blog combo powered by [Marmite](https://github.com/rochacbruno/marmite)
