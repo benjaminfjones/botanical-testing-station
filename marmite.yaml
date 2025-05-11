@@ -7,4 +7,5 @@ menu:
     - https://mathstodon.xyz/@bfjvii
   - - Trad website
     - https://bfj7.com
-
+extra:
+  colorscheme: solarized
