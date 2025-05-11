@@ -4,9 +4,9 @@ set -eu
 
 echo "Syncing to tilde.club"
 
-marmite . public/
+marmite -v . ../public/
 pushd public
-rsync -avz * tilde:public_html/botanical-testing-station
+rsync -avz ../public/* tilde:public_html/botanical-testing-station
 popd
 
 echo "Done."
