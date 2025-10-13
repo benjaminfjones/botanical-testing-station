@@ -1,11 +1,10 @@
+name: Botanical Testing Station
+tagline: Notes to myself and windtraps
+url: https://tilde.club/~bfj/botanical-testing-station
 menu:
-  - - About
-    - about.html
-  - - GitHub
-    - https://github.com/benjaminfjones
-  - - Mastodon
-    - https://mathstodon.xyz/@bfjvii
-  - - Trad website
-    - https://bfj7.com
+  - ["About", "about.html"]
+  - ["GitHub", "https://github.com/benjaminfjones"]
+  - ["Mastodon", "https://mathstodon.xyz/@bfjvii"]
+  - ["Trad website", "https://bfj7.com"]
 extra:
   colorscheme: solarized
