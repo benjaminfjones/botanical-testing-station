@@ -1,6 +1,6 @@
 ---
 date: 2025-10-13
-tags: laptop, mac, setup, notes
+tags: laptop, macos, setup, notes
 ---
 
 # Saddling a new mac in 2025
